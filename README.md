@@ -1,6 +1,8 @@
 
 # Hash Iterator
 
+This is an exercise I want candidates to do when joining one of the teams, and a quick v1 solution/attempt. 
+
 ## Problem description
 
 The problem is to create a brute force 
